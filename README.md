@@ -1,1 +1,1 @@
-# FriendFinder2
+# FriendFinder Version 2.0
